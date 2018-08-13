@@ -6,8 +6,8 @@ This is a dataset of book images, but number of samples are small.
 
 This is created for a blog post. Please refer to followings for the detail.
 
-- English [medium 'Train A Strong Classifier with Small Dataset, From Scratch? ImageNet Weights? Or AutoML? — Part 1'](https://medium.com/@nizumical/train-a-strong-classifier-with-small-dataset-from-scratch-imagenet-weights-or-automl-part-1-6b6d375fc680)
-- Japanese [Qiita '小さなデータセットで良い分類機を学習させるとき'](https://qiita.com/daisukelab/items/381099590f22e4f9ab1f)
+- 日本語の記事 [Qiita '小さなデータセットで良い分類機を学習させるとき'](https://qiita.com/daisukelab/items/381099590f22e4f9ab1f)
+- English blog post [medium 'Train A Strong Classifier with Small Dataset, From Scratch? ImageNet Weights? Or AutoML? — Part 1'](https://medium.com/@nizumical/train-a-strong-classifier-with-small-dataset-from-scratch-imagenet-weights-or-automl-part-1-6b6d375fc680)
 
 ## How you can run the code
 
